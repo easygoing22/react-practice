@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <h1>내 첫 React 앱</h1>
-      <p>민서민채 사랑해</p>
+      <p>민서민채 사랑해 - 수정</p>
     </div>
   );
 }
